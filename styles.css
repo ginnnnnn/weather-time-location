@@ -1,0 +1,23 @@
+body {
+    background:#eeedec;
+    letter-spacing: 0.2em;
+    font-size:0.8em;
+}
+.container{
+ max-width:400px;
+}
+.icon {
+    position: relative;
+    border-radius: 50%;
+    margin-bottom: -50px;
+    width:100px;
+    top:-50px;
+}
+.clock {
+    font-size:8em;
+    color:white;
+    position: absolute;
+    top:20%;
+    width:100%;
+    text-align: center;
+}
